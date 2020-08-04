@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/make-notes/static/css/main.0c907582.chunk.css",
+    "main.js": "/make-notes/static/js/main.d189e7ce.chunk.js",
+    "main.js.map": "/make-notes/static/js/main.d189e7ce.chunk.js.map",
+    "runtime-main.js": "/make-notes/static/js/runtime-main.0b7536e0.js",
+    "runtime-main.js.map": "/make-notes/static/js/runtime-main.0b7536e0.js.map",
+    "static/css/2.9c8c8187.chunk.css": "/make-notes/static/css/2.9c8c8187.chunk.css",
+    "static/js/2.116a06c6.chunk.js": "/make-notes/static/js/2.116a06c6.chunk.js",
+    "static/js/2.116a06c6.chunk.js.map": "/make-notes/static/js/2.116a06c6.chunk.js.map",
+    "index.html": "/make-notes/index.html",
+    "precache-manifest.bcc593bb34b0e73ee010148c61ec83a7.js": "/make-notes/precache-manifest.bcc593bb34b0e73ee010148c61ec83a7.js",
+    "service-worker.js": "/make-notes/service-worker.js",
+    "static/css/2.9c8c8187.chunk.css.map": "/make-notes/static/css/2.9c8c8187.chunk.css.map",
+    "static/css/main.0c907582.chunk.css.map": "/make-notes/static/css/main.0c907582.chunk.css.map",
+    "static/js/2.116a06c6.chunk.js.LICENSE.txt": "/make-notes/static/js/2.116a06c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b7536e0.js",
+    "static/css/2.9c8c8187.chunk.css",
+    "static/js/2.116a06c6.chunk.js",
+    "static/css/main.0c907582.chunk.css",
+    "static/js/main.d189e7ce.chunk.js"
+  ]
+}
